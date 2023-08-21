@@ -2,7 +2,6 @@ AI Classification Website
 
  ## Description » Put in a URL, this Application finds out what it is using Resnet-18 or GoogleNet
 
-![add image descrition here](direct image link here)
 
 $${\color{orange}The Algorithm}$$
 
@@ -15,4 +14,6 @@ This Application allows you to use any website url (of a picture) to classify wh
 3. Navigate into Main directory "cd Main"
 4. Run code "python3 flaskWebpage.py" (runs flask webserver)
 
-[View a video explanation here](video link)
+
+First Image (GoogleNet Demonstration): https://www.wwf.org.uk/sites/default/files/styles/social_share_image/public/2022-05/_WW236934.jpg
+Second Image (ResNet18 Demonstration): https://a-z-animals.com/media/2023/07/shutterstock-1793473135-huge-licensed-scaled.jpg
